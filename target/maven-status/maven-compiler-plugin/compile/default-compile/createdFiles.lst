@@ -1,0 +1,8 @@
+com\example\carshop\entity\Caroserie.class
+com\example\carshop\entity\VehicleType.class
+com\example\carshop\entity\Brand.class
+com\example\carshop\CarShopApplication.class
+com\example\carshop\controller\BikeController.class
+com\example\carshop\entity\Car.class
+com\example\carshop\entity\Models.class
+com\example\carshop\entity\Gas.class
